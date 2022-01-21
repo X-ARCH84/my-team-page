@@ -1,0 +1,610 @@
+html {
+  position: relative;
+  width: 1440px;
+  height: 1489px;
+  background: #ffffff;
+  box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: "PT Serif", serif;
+  margin-left: 243px;
+  margin-top: 110px;
+  position: absolute;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 736px;
+  margin-top: 110px;
+  position: absolute;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  width: 439px;
+  height: 87px;
+  left: 736px;
+  top: 147px;
+}
+
+img {
+  height: 341px;
+  width: 238px;
+}
+/*Bill Mahoney*/
+#image-1 {
+  position: absolute;
+  left: 240px;
+  top: 330px;
+}
+
+/*Product Owner*/
+#bill {
+  left: 0px;
+  top: 330px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#p-owner {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container1 {
+  width: 264px;
+  height: 383px;
+  position: absolute;
+}
+
+/*Saba Cabrera*/
+#image-2 {
+  position: absolute;
+  left: 571px;
+  top: 429px;
+}
+
+#saba {
+  left: 0px;
+  top: 330px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#a-director {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container2 {
+  width: 305.21px;
+  height: 471px;
+  position: absolute;
+}
+
+/*Shae Le*/
+#image-3 {
+  position: absolute;
+  left: 863.54px;
+  top: 330px;
+}
+
+#shae {
+  left: 0px;
+  top: 330px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#t-lead {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container3 {
+  width: 300.81px;
+  height: 399.96px;
+  position: absolute;
+}
+
+/*Skylah Lu*/
+#image-4 {
+  position: absolute;
+  left: 241px;
+  top: 845px;
+}
+
+#skylah {
+  left: 0px;
+  top: 330px;
+  width: 117px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#ux-design {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container4 {
+  width: 276.68px;
+  height: 469px;
+  position: absolute;
+}
+
+/*Griff Richards*/
+#image-5 {
+  position: absolute;
+  left: 571px;
+  top: 944px;
+}
+
+#griff {
+  left: 0px;
+  top: 330px;
+  width: 124px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#dev {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container5 {
+  width: 274.36px;
+  height: 360px;
+  position: absolute;
+}
+
+/*Stan John*/
+#image-6 {
+  position: absolute;
+  left: 902px;
+  top: 845px;
+}
+
+#stan {
+  left: 0px;
+  top: 330px;
+  width: 124px;
+  height: 27px;
+  position: absolute;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 27px;
+  color: #000000;
+}
+
+#dev2 {
+  position: absolute;
+  width: 120px;
+  height: 16px;
+  left: 190px;
+  top: 42px;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(90deg);
+}
+
+.container6 {
+  width: 335.75px;
+  height: 449px;
+  position: absolute;
+}
+
+#creator {
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  left: 547px;
+  top: 1448px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #a9a9a9;
+}
+
+@media only screen and (max-width: 375px) {
+  html {
+    width: 375px;
+    height: 1409px;
+  }
+
+  h1 {
+    font-family: "PT Serif", serif;
+    margin-left: 12px;
+    margin-top: 71px;
+    position: absolute;
+  }
+
+  h3 {
+    font-family: "Poppins", sans-serif;
+    margin-left: 12px;
+    margin-top: 156px;
+    position: absolute;
+  }
+
+  p {
+    font-family: "Poppins", sans-serif;
+    position: absolute;
+    width: 333px;
+    height: 87px;
+    left: 12px;
+    top: 193px;
+  }
+
+  img {
+    height: 220px;
+    width: 138.72px;
+  }
+
+  /*Product Owner*/
+  #image-1 {
+    position: absolute;
+    left: 19px;
+    top: 330px;
+  }
+
+  #bill {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #p-owner {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container1 {
+    width: 138.72px;
+    height: 261.4px;
+    position: absolute;
+    left: 19px;
+    top: 265.6px;
+  }
+
+  /*Saba Cabrera*/
+  #image-2 {
+    position: absolute;
+    left: 200px;
+    top: 366px;
+  }
+
+  #saba {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #a-director {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container2 {
+    width: 177.42px;
+    height: 283.69px;
+    position: absolute;
+  }
+
+  /*Shae Le*/
+  #image-3 {
+    position: absolute;
+    left: 21.88px;
+    top: 619px;
+  }
+
+  #shae {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #t-lead {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container3 {
+    width: 175.68px;
+    height: 257.38px;
+    position: absolute;
+  }
+
+  /*Skylah Lu*/
+  #image-4 {
+    position: absolute;
+    left: 200px;
+    top: 667px;
+  }
+
+  #skylah {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #ux-design {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container4 {
+    width: 162.27px;
+    height: 303.21px;
+    position: absolute;
+  }
+
+  /*Griff Richards*/
+  #image-5 {
+    position: absolute;
+    left: 19px;
+    top: 930px;
+  }
+
+  #griff {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #dev {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container5 {
+    width: 160.24px;
+    height: 234.47px;
+    position: absolute;
+  }
+
+  /*Stan John*/
+  #image-6 {
+    position: absolute;
+    left: 200px;
+    top: 979px;
+  }
+
+  #stan {
+    left: 0px;
+    top: 215px;
+    width: 128px;
+    height: 18px;
+    position: absolute;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    color: #000000;
+  }
+
+  #dev2 {
+    position: absolute;
+    width: 130px;
+    height: 11px;
+    left: 90px;
+    top: 49px;
+    font-family: "PT Serif", serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+  }
+
+  .container6 {
+    width: 197.42px;
+    height: 289.68px;
+    position: absolute;
+  }
+
+  #creator {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 46px;
+    top: 1368px;
+  }
+}
